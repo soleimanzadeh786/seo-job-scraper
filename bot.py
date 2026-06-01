@@ -55,6 +55,7 @@ BLACKLIST_KEYWORDS = [
     "agency",
     "full stack",
     "fullstack",
+    "simultaneous interpretation"
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
