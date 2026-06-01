@@ -37,11 +37,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "Farsi Translator remote crypto",
+    "Persian Transcriptionist remote Web3",
+    "Farsi Data Entry remote USDT",
+    "Remote Farsi Audio Transcription Bitcoin",
+    "Bilingual Farsi English Translator freelance crypto",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
