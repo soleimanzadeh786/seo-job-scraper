@@ -38,11 +38,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
     "Farsi Translator remote",
+    "Persian Translator remote",
     "Persian Transcriptionist remote",
     "Farsi Data Entry remote",
     "Farsi Transcription remote",
-    "Farsi English Translator freelance crypto",
-]
+    ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
